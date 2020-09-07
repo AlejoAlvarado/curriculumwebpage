@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,500,700');
+
+body {
+  overflow-x: hidden;
+  font-family: 'IBM Plex Sans', sans-serif;
+}
 #header{
 display: grid;
 grid-template-columns: 2fr 5fr;
@@ -26,7 +32,21 @@ color: white;
   background: white;
   margin-top: 10px
 }
-
+#profile{
+  background: #CDCDCF;
+  padding: 10px
+}
+#wrapper{
+  padding: 0px;
+  margin-top: 50px;
+}
+#left-mrgm{
+  margin-left: 40px;
+  font-weight: bold;
+}
+#year{
+  margin-left: 105px;
+}
 .bg-lightblue{
     background-color: rgb(43, 62, 134);
 }
