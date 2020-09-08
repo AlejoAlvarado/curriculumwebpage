@@ -47,6 +47,10 @@ color: white;
 #year{
   margin-left: 105px;
 }
+#prog{
+  height: 15px;
+  width: 100px;
+}
 .bg-lightblue{
     background-color: rgb(43, 62, 134);
 }
