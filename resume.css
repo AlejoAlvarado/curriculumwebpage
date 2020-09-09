@@ -51,6 +51,12 @@ color: white;
   height: 15px;
   width: 100px;
 }
+#hrexp{
+    width: 20%;
+}
+#exp{
+  margin-top: 5%;
+}
 .bg-lightblue{
     background-color: rgb(43, 62, 134);
 }
