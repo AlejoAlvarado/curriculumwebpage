@@ -17,7 +17,9 @@ body {
 
 }
 #hrcont{
+  background-color: rgb(155, 155, 155);
   width: 30%;
+  height: 3px;
 }
 /* #contactext{
   width: 80%;
@@ -29,7 +31,16 @@ body {
 .bg-blue{
     background-color: rgb(51, 53, 58);
 }
-
+#repcontainer{
+  margin-top: 80px;
+}
+#left-mrgm{
+  margin-left: 30px;
+  font-weight: bold;
+}
+#dificultades{
+  margin-left: 47px;
+}
 .bg-lightblue{
     background-color: rgb(43, 62, 134);
 }
